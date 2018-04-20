@@ -1,0 +1,137 @@
+New York:New York
+California:Los Angeles
+Illinois:Chicago
+Texas:Houston
+Pennsylvania:Philadelphia
+Texas:San Antonio
+California:San Diego
+Texas:Dallas
+California:San Jose
+Florida:Jacksonville
+California:San Francisco
+Texas:Fort Worth
+North Carolina:Charlotte
+Washington:Seattle
+Texas:El Paso
+Michigan:Detroit
+Tennessee:Memphis
+Oregon:Portland
+Kentucky:Louisville
+Maryland:Baltimore
+Wisconsin:Milwaukee
+New Mexico:Alberqueque
+Arizona:Tucson
+California:Fresno
+California:Sacramento
+Arizona:Mesa
+Missouri:Kansas City
+California:Long Beach
+Colorado:Colorado Springs
+Florida:Miami
+Virginia:Virginia Beach
+Nebraska:Omaha
+California:Oakland
+Minnesota:Minneapolis
+Oklahoma:Tulsa
+Texas:Arlington
+Louisiana:New Orleans
+Kansas:Wichita
+Ohio:Cleveland
+Florida:Tampa
+California:Bakersfield
+Colorado:Aurora
+California:Anaheim
+California:Santa Ana
+Texas:Corpus Christi
+California:Riverside
+Kentucky:Lexington
+Missouri:St Louis
+California:Stockton
+Pennsylvania:Pittsburgh
+Ohio:Cincinnati
+Alaska:Anchorage
+Nevada:Henderson
+North Carolina:Greensboro
+Texas:Plano
+New Jersey:Newark
+Nebraska:Lincoln
+Ohio:Toledo
+Florida:Orlando
+California:Chula Vista
+California:Irvine
+Indiana:Fort Wayne
+New Jersey:Jersey City
+North Carolina:Durham
+Florida:St Petersburg
+Texas:Laredo
+New York:Buffalo
+Texas:Lubbock
+Arizona:Chandler
+Arizona:Scottsdale
+Arizona:Glendale
+Nevada:Reno
+Virginia:Norfolk
+North Carolina:Winston-Salem
+Nevada:Las Vegas
+Texas:Irving
+Virginia:Chesapeake
+Arizona:Gilbert
+Florida:Hialeah
+Texas:Garland
+California:Fremont
+California:San Bernadino
+Delaware:Wilmington
+Iowa:Cedar Rapids
+Iowa:Davenport
+Utah:Provo
+Utah:West Valley City
+Utah:Jordan
+Connecticut:Waterbury
+Connecticut:Bridgeport
+Connecticut:New Haven
+Montana:Billings
+Massachusetts:Worcester
+Massachusetts:Provincetown
+Massachusetts:Cambridge
+Massachusetts:Springfield
+South Carolina:Charleston
+South Carolina:North Charleston
+New Hampshire:Manchester
+Georgia:Columbus
+Georgia:Augusta
+North Dakota:Fargo
+Alabama:Birmingham
+Alabama:Huntsville
+South Dakota:Sioux Falls
+Mississippi:Gulfport
+Mississippi:Madison
+Mississippi:Brandon
+Mississippi:Tupelo
+Mississippi:Clinton
+Arkansas:Fayetteville
+Arkansas:Springdale
+Arkansas:Rogers
+Idaho:Meridian
+Idaho:Caldwell
+Idaho:Nampa
+Wyoming:Casper
+Wyoming:Laramie
+Wyoming:Sheridan
+Wyoming:Gillette
+Wyoming:Jackson
+West Virginia:Charleston
+West Virginia:Huntington
+West Virginia:Fairmont
+Vermont:Burlington
+Vermont:Montpelier
+Vermont:St Albans
+Hawaii:Pearl City
+Hawaii:Kahului
+Hawaii:Hilo
+Rhode Island:Pawtucket
+Rhode Island:Cranston
+Rhode Island:Warwick
+Rhode Island:Bristol
+Maine:Portland
+Maine:Lubec
+Maine:Camden
