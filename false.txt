@@ -45,7 +45,7 @@ California:Santa Ana
 Texas:Corpus Christi
 California:Riverside
 Kentucky:Lexington
-Missouri:St Louis
+Missouri:Saint Louis
 California:Stockton
 Pennsylvania:Pittsburgh
 Ohio:Cincinnati
@@ -62,7 +62,7 @@ California:Irvine
 Indiana:Fort Wayne
 New Jersey:Jersey City
 North Carolina:Durham
-Florida:St Petersburg
+Florida:Saint Petersburg
 Texas:Laredo
 New York:Buffalo
 Texas:Lubbock
@@ -124,7 +124,7 @@ West Virginia:Huntington
 West Virginia:Fairmont
 Vermont:Burlington
 Vermont:Montpelier
-Vermont:St Albans
+Vermont:Saint Albans
 Hawaii:Pearl City
 Hawaii:Kahului
 Hawaii:Hilo
